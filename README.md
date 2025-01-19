@@ -1,1 +1,1 @@
-# zad1
+Krzysztof, 157776, CW7
