@@ -1,1 +1,2 @@
-plikwykluczony.java
+*.log
+*.tmp
